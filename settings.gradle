@@ -1,0 +1,3 @@
+include ':appemotion'
+rootProject.name='EmotionRecognition'
+include ':appbio', ':biometric-auth'
