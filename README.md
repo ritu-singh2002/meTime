@@ -6,4 +6,49 @@ Our project is an Android Application named as “meTime”.
 It is a Mental Health app which will not only help in spreading Mental Health awareness, but also comprises various Self Care habits that a person can adapt for better mental and physical health. This app is for everyone who want positivity and motivation in their lives or want to live a healthy lifestyle. 
 There have been several technological innovations for mental health like smart phone apps which help people cope with anxiety or depression and people who suffer from addiction. People can find guidance through such apps. Our application is a small initiative along the same line.
 
-![SignUp](https://user-images.githubusercontent.com/98696997/177332266-0a525915-3436-47e5-9bb9-cb3629d651ce.jpeg | width = 100)
+<h3>FEATURES / UI of App</h3>
+
+<table>
+  <tr>
+    <td>SignUp Page</td>
+     <td>Login Page</td>
+  </tr>
+  <tr>
+    <td><img src="./MeTime GitHub Images/SignUp.jpeg" width=270 height=480></td>
+    <td><img src="./MeTime GitHub Images/Login.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>Emotion Page</td>
+     <td>Recognising Emotions</td>
+  </tr>
+  <tr>
+    <td><img src="./MeTime GitHub Images/EmotionPage.jpeg" width=270 height=480></td>
+    <td><img src="./MeTime GitHub Images/EmotionRecognition.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+ 
+ For this feature of Real Time Emotion Recognition, a GitHub Library is used.
+ CREDITS: https://github.com/lampadovnikita/EmotionRecognition 
+ 
+ Home Page
+ <br>
+ <img src="./MeTime GitHub Images/HomePage.jpeg" width=270 height=480>
+ 
+ <table>
+  <tr>
+    <td>Motivation Page</td>
+    <td>Positivity Page</td>
+    <td>SelfLove Page</td>
+  </tr>
+  <tr>
+    <td><img src="./MeTime GitHub Images/Motivation.jpeg" width=270 height=480></td>
+    <td><img src="./MeTime GitHub Images/Positivity.jpeg" width=270 height=480></td>
+    <td><img src="./MeTime GitHub Images/Self Love.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+ 
+ 
+ 
