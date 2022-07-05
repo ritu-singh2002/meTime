@@ -50,5 +50,32 @@ There have been several technological innovations for mental health like smart p
   </tr>
  </table>
  
+ Self Care Habits Page
+ <br>
+ <img src="./MeTime GitHub Images/Self Care Habits.jpeg" width=270 height=480>
  
+ Why Therapy Page
+ <br>
+ <img src="./MeTime GitHub Images/Why Therapy.jpeg" width=270 height=480>
+ 
+ Articles Page
+ <br>
+ <img src="./MeTime GitHub Images/ABCD.jpeg" width=270 height=480>
+ 
+ <table>
+  <tr>
+    <td>Yoga Page</td>
+     <td>Yoga Feature</td>
+  </tr>
+  <tr>
+    <td><img src="./MeTime GitHub Images/Yoga.jpeg" width=270 height=480></td>
+    <td><img src="./MeTime GitHub Images/Yoga Feature.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+ Click on any body part the app will show you an asana particularly for that.
+ 
+ 
+ Review Page
+ <br>
+ <img src="./MeTime GitHub Images/Review.jpeg" width=270 height=480>
  
